@@ -1,0 +1,16 @@
+index,type,name,hpDice,lpDice
+1,hechizo,salud divina,5,0
+2,hechizo,velocidad,2,0
+3,hechizo,fulgor solar,6,0
+4,hechizo,teletransporte,1,0
+5,hechizo,gloria celestial,5,0
+6,hechizo,invisibilidad,2,0
+7,hechizo,control mental,3,0
+8,habilidad,bola de fuego,0,3
+9,habilidad,medicina,0,7
+10,habilidad,naturaleza,0,2
+11,habilidad,sigilo,0,4
+12,habilidad,supervivencia,0,3
+13,habilidad,timar,0,1
+14,habilidad,atletismo,0,2
+15,habilidad,juego de manos,0,2
