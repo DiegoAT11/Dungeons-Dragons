@@ -22,7 +22,7 @@ The **Linked List** is a key component in this game, used to store various types
 
 ### AVL Tree (`AVL.h`)
 
-The **AVL Tree** is used to maintain a balanced binary search tree for efficient searching, inserting, and deleting elements. It is especially useful for managing **Monsters** and other game entities that need fast access.
+The **AVL Tree** is used to maintain a balanced binary search tree for efficient searching, inserting, and deleting elements. It is especially useful for managing **Monsters**.
 
 ### Monster (`monster.h`)
 
